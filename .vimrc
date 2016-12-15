@@ -25,6 +25,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'altercation/vim-colors-solarized'
 Plugin 'Valloric/YouCompleteMe'
+Plugin 'Lokaltog/vim-powerline'
 " 插件列表结束
 call vundle#end()
 
